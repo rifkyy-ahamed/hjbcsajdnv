@@ -143,6 +143,7 @@
     row-gap: 3.5rem;
     display: flex;
     flex-direction: row; 
+    overflow-y: hidden;
 }
 
 .card {
